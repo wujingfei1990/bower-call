@@ -1,0 +1,8 @@
+{
+    "name": "call",
+    "version": "0.2.8",
+    "homepage": "https://github.com/ripple/ripple-lib",
+    "description": "The Call JavaScript Library. Connect and interact to the Call network using the WebSocket protocol",
+    "main": "./call.js",
+    "dependencies": {}
+  }
